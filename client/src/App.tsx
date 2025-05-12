@@ -30,7 +30,7 @@ function App() {
     <div>
       <Header>
         <Container>
-          <h1>Chloé test 2</h1>
+          <h1>Chloé test 3</h1>
         </Container>
       </Header>
       <Container>
